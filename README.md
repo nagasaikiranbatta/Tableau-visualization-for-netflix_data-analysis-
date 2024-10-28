@@ -1,6 +1,8 @@
 # netflix_data_analysis
 Overview: This dashboard analyzes the distribution and characteristics of movies and TV shows, including popular genres, countries of origin, and rating distributions. It also tracks the growth of titles over the years.
 
+![tableau netflix](https://github.com/user-attachments/assets/2ba56017-1548-4020-be43-52e70feff4d4)
+
 Key Insights:
 Total Titles by Country: The map visualization shows the geographical distribution of titles, with the highest contributions from the United States, followed by other regions.
 
